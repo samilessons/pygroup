@@ -29,3 +29,5 @@ person = {
     ],
     "images": ("images/user1-1.webp", "images/user1-2.webp", "images/user1-3.webp")
 }
+
+cars = ["BMW", "Audi", "Volvo", "Tesla", "Toyota"]
